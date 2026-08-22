@@ -38,6 +38,24 @@ const projects = [
     github: "https://github.com/zyousufkhan777-gif/E-commerce-website-project",
     demo: "https://e-commerce-website-project-b6ac-isw3zzd4m-yousuf-s-projects3.vercel.app/",
   },
+  {
+  id: 4,
+  title: "Deniza Restaurant",
+  description:
+    "A responsive full-stack restaurant ordering platform developed with the MERN Stack. Users can browse foods, search by category, create accounts, manage their cart, place orders, and complete checkout. The application also includes a separate admin dashboard for food, order, user, and contact management.",
+  technologies: [
+    "React",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT",
+    "Axios",
+    "Cloudinary",
+  ],
+  github: "YOUR_GITHUB_REPOSITORY_URL",
+  demo: "https://deniza-restaurant.vercel.app/",
+},
 ];
 
 const Projects = () => {
