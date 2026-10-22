@@ -39,23 +39,45 @@ const projects = [
     demo: "https://e-commerce-website-project-b6ac-isw3zzd4m-yousuf-s-projects3.vercel.app/",
   },
   {
-  id: 4,
-  title: "Deniza Restaurant",
-  description:
-    "A responsive full-stack restaurant ordering platform developed with the MERN Stack. Users can browse foods, search by category, create accounts, manage their cart, place orders, and complete checkout. The application also includes a separate admin dashboard for food, order, user, and contact management.",
-  technologies: [
-    "React",
-    "Tailwind CSS",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "JWT",
-    "Axios",
-    "Cloudinary",
-  ],
-  github: "YOUR_GITHUB_REPOSITORY_URL",
-  demo: "https://deniza-restaurant.vercel.app/",
-},
+    id: 4,
+    title: "Deniza Restaurant",
+    description:
+      "A responsive full-stack restaurant ordering platform developed with the MERN Stack. Users can browse foods, search by category, create accounts, manage their cart, place orders, and complete checkout. The application also includes a separate admin dashboard for food, order, user, and contact management.",
+    technologies: [
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT",
+      "Axios",
+      "Cloudinary",
+    ],
+    github: "YOUR_GITHUB_REPOSITORY_URL",
+    demo: "https://deniza-restaurant.vercel.app/",
+  },
+
+  {
+    id: 5,
+    title: "JobHub",
+    description:
+      "A full-stack job search and recruitment platform developed with the MERN Stack. Users can explore job opportunities, search and filter jobs, view company profiles, save jobs, upload PDF resumes, and apply for positions. The platform also includes authentication, user profile management, company job management, and resume upload functionality.",
+    technologies: [
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "Redux Toolkit",
+      "Axios",
+      "Cloudinary",
+    ],
+    github: "YOUR_JOBHUB_GITHUB_REPOSITORY_URL",
+    demo: "https://job-hub-com.vercel.app/",
+  },
+
 ];
 
 const Projects = () => {
