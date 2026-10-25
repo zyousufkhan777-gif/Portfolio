@@ -36,7 +36,7 @@ const projects = [
       "Cloudinary",
     ],
     github: "https://github.com/zyousufkhan777-gif/E-commerce-website-project",
-    demo: "https://e-commerce-website-project-b6ac-isw3zzd4m-yousuf-s-projects3.vercel.app/",
+    demo: "https://e-commerce-website-project-eight.vercel.app/",
   },
   {
     id: 4,
